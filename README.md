@@ -1,0 +1,1 @@
+# scala-tree-seed.g8
