@@ -1,1 +1,2 @@
-# scala-tree-seed.g8
+# scala-list-seed.g8
+ADT List Seed from fpinscala 
